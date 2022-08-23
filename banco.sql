@@ -4,5 +4,6 @@ CREATE TABLE dados (
     Sobrenome varchar(50),
     Endereco varchar(150),
     Cidade varchar(50),
+    Estado,
     Host varchar(50)
 );
